@@ -1,36 +1,33 @@
-# H.O.P.E
-###### Heading 6: Help Old People Explore
-🖼️ *[Logo Placeholder for later edit]*
 
-![GitHub Stars](https://img.shields.io/github/stars/gamefox06)
-![GitHub Issues](https://img.shields.io/github/issues/gamefox06/hope)
+# H.O.P.E
+<h6>Helping 6 Help Old People Explore </h6><br><br>
+[Logo Placeholder for later edit xd]
+
+![](https://img.shields.io/github/stars/gamefox06)  ![](https://img.shields.io/github/issues/gamefox06/hope)
 
 ---
 
-### Who are we?
-
-We're **four friends** who decided to start a small project for the **older generations**. 😊  
+<h3>Who are we? </h3>
+Were **four friends** who decided to start a small project for the **older generations**. :)
 Our goal is to create an app that **helps them** better understand the ever-evolving world of modern **technology**.
 
-Since it's often challenging for *some* older people to adapt to new tech, we want to make the transition **easier**.  
-Our app will serve as a **tutorial** or **guide** with a fun, game-like touch.  
-It will be **simple** to use, yet capable of **explaining** even complex topics in a clear way.
+Since its often challenging for *some* older people to adapt to new tech, we want to make the transition **easier**.
+Our app will serve as a **tutorial** or **guide** with a fun, game-like touch. It will be **simple** to use, yet capable of **explaining** even complex topics in a clear way.
 
----
 
-### 📝 Current To-Dos
+
+<h3>Current to-do`s </h3>
 
 - [x] Creating the fundament/preset of the files
-- [ ] Design  
-  - [ ] Logo  
-  - [ ] Mascot
-- [ ] First Coding Steps  
-  - [ ] Setting up the Menu  
-    - [ ] Design  
-    - [ ] Loading Template
+- [ ] Design
+	- [ ] Logo
+    - [ ] Mascot
+- [ ] First Coding steps
+	- [ ] Setting up the Menu
+		- [ ] Design
+		- [ ] Loading Template
+
 
 ---
-
-### 📊 Plan / Tasks
-
+Plan / Tasks
 *Coming soon*
