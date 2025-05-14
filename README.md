@@ -7,7 +7,8 @@
 
 ---
 
-<h3>Who are we? </h3>
+<h3>Who are we? </h3>  
+
 Were **four friends** who decided to start a small project for the **older generations**. :)
 Our goal is to create an app that **helps them** better understand the ever-evolving world of modern **technology**.
 
