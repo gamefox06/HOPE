@@ -1,4 +1,33 @@
-# HOPE
-Help Old People Explore
+# H.O.P.E
+######Heading 6 Help Old People Explore
+[Logo Placeholder for later edit xd]
 
-A small group of warriors, destined to bring balance between old and young, will destroy everything in their way to fulfill their great mission.
+![](https://img.shields.io/github/stars/gamefox06) ![]]](https://img.shields.io/github/issues/gamefox06/hope)
+
+---
+
+###Who are we?
+Were **four friends** who decided to start a small project for the **older generations**. :)
+Our goal is to create an app that **helps them** better understand the ever-evolving world of modern **technology**.
+
+Since its often challenging for *some* older people to adapt to new tech, we want to make the transition **easier**.
+Our app will serve as a **tutorial** or **guide** with a fun, game-like touch. It will be **simple** to use, yet capable of **explaining** even complex topics in a clear way.
+
+
+<span style="color:blue; font-size:21px;font-weight:bold">
+Current to-do`s
+</span>
+
+- [x] Creating the fundament/preset of the files
+- [ ] Design
+    - [ ] Logo
+    - [ ] Mascot
+- [ ] First Coding steps
+    - [ ] Setting up the Menu
+        - [ ] Design
+        - [ ] Loading Template
+
+
+---
+###Plan / Tasks
+*Coming soon*
