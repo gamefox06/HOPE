@@ -1,6 +1,6 @@
 
 # H.O.P.E
-<h6>Helping 6 Help Old People Explore </h6><br><br>
+<h6>Help Old People Explore </h6><br><br>
 [Logo Placeholder for later edit xd]
 
 ![](https://img.shields.io/github/stars/gamefox06)  ![](https://img.shields.io/github/issues/gamefox06/hope)
